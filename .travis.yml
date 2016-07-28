@@ -1,0 +1,6 @@
+language: csharp
+solution: BusStop.sln
+install:
+  - nuget BusStop.sln
+script:
+  - xbuild /p:Configuration=Release BusStop.sln
