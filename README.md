@@ -8,4 +8,8 @@ Currently you can find a stop by part of name:
 And get deatails about stop by id:  
  - api/BusStop/{id}
 
-WebService, Windows Phone Application, Angular2 (in feature) 
+Solution include:  
+ - WebService,  
+ - Windows Phone Application,  
+ - Angular2 (in feature) 
+ - Xamarin App (in feature)
