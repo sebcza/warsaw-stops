@@ -13,5 +13,5 @@ And get deatails about stop by id:
 Solution include:  
  - WebService,  
  - Windows Phone Application,  
- - Angular2 (in feature) 
- - Xamarin App (in feature)
+ - Angular2 (in future) 
+ - Xamarin App (in future)
