@@ -15,3 +15,12 @@ Solution include:
  - Windows Phone Application,  
  - Angular2 (in future) 
  - Xamarin App (in future)
+
+## Plan
+
+1. Refactor endpoints to:
+ - api/stop/search/{name}
+ - api/stop/{id}
+ - api/stop
+ - api/stop?street={street-name}&city={city-name}&direction={name} 
+2. Material design for GUI
