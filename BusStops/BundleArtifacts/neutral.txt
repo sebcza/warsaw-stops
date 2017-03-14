@@ -1,5 +1,0 @@
-MainPackage=C:\Users\sebcza\Documents\Visual Studio 2013\Projects\BusStop\BusStops\bin\Release\BusStops_1.1.0.8_Bundle\BusStops_1.1.0.8_AnyCPU.appx
-SymbolPackage=C:\Users\sebcza\Documents\Visual Studio 2013\Projects\BusStop\BusStops\AppPackages\BusStops_1.1.0.8_Test\BusStops_1.1.0.8_AnyCPU.appxsym
-ResourcePack=C:\Users\sebcza\Documents\Visual Studio 2013\Projects\BusStop\BusStops\bin\Release\BusStops_1.1.0.8_Bundle\BusStops_1.1.0.8_language-en.appx
-ResourcePack=C:\Users\sebcza\Documents\Visual Studio 2013\Projects\BusStop\BusStops\bin\Release\BusStops_1.1.0.8_Bundle\BusStops_1.1.0.8_scale-100.appx
-ResourcePack=C:\Users\sebcza\Documents\Visual Studio 2013\Projects\BusStop\BusStops\bin\Release\BusStops_1.1.0.8_Bundle\BusStops_1.1.0.8_scale-140.appx
