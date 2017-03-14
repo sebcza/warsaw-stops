@@ -1,6 +1,6 @@
 # Warsaw Stops
 
-[![Build Status](https://travis-ci.org/sebcza/warsaw-stops.svg?branch=master)](https://travis-ci.org/sebcza/warsaw-stops)
+[![Build Status](https://sebcza.visualstudio.com/_apis/public/build/definitions/af692c55-ddd7-40d8-97df-36b818c47fed/1/badge)
 
 It is a project with very simple idea: Easy access to collection of stops localizationin Warsaw. At http://warsaw-stops.azurewebsites.net/ can you see production version.  
 
