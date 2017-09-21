@@ -10,17 +10,16 @@ Currently you can find a stop by part of name:
 And get deatails about stop by id:  
  - api/BusStop/{id}
 
-Solution include:  
- - WebService,  
- - Windows Phone Application,  
- - Angular2 (in future) 
- - Xamarin App (in future)
-
 ## Plan
 
-1. Refactor endpoints to:
+1. Plan for solution:  
+ - WebService,    
+ - Xamarin native IOS
+ - Xamarin native Android
+
+2. Refactor endpoints to:
  - api/stop/search/{name}
  - api/stop/{id}
  - api/stop
  - api/stop?street={street-name}&city={city-name}&direction={name} 
-2. Material design for GUI
+3. Material design for GUI
