@@ -5,6 +5,7 @@ using WarsawCore.Repositories;
 
 namespace WarsawCore.Controllers
 {
+    [Route("/api/stops")]
     public class StopsController : Controller
     {
         private readonly IStopsRepository repository;
